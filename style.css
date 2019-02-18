@@ -1,0 +1,16 @@
+canvas{
+    top: 0;
+    left: 0;
+    
+}
+div canvas{
+    position: absolute;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.hide{
+    display: none;
+}
